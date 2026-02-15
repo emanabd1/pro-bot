@@ -9,20 +9,21 @@
 ### 1. Unified Intelligence Dashboard
 The core interface features a high-conversion landing page integrated with a real-time system monitor. The **Split-View Architecture** allows administrators to see the frontend experience alongside the backend production runtime.
 
-> **[Screenshot: Dashboard & Database Explorer]**  
-> *Displays the active landing page with the floating AI widget and the real-time "TBL_USERS" database view in the Live Console.*
+
 
 ### 2. Enterprise Hero Experience
 A bold, modern landing page designed to communicate value immediately. It features animated mesh gradients, floating UI elements, and high-contrast typography.
 
-> **[Screenshot: Hero Section]**  
-> *Shows the "Intelligence that Understands Your Business" headline and primary call-to-action buttons: "Launch Console" and "View Live Demo".*
+> 
+<img width="1920" height="880" alt="image1" src="https://github.com/user-attachments/assets/5b4ba06b-d0d1-4035-860e-bdd6236ec831" />
+<img width="1920" height="880" alt="image4" src="https://github.com/user-attachments/assets/ad8ae96f-346e-4c8a-a976-aa2299cb053c" />
+<img width="1920" height="880" alt="image3" src="https://github.com/user-attachments/assets/86288c7c-e1b2-4338-bebd-c3adfb521fdd" />
+<img width="1920" height="880" alt="image2" src="https://github.com/user-attachments/assets/68ebcd35-b19f-4078-9e7d-d5debb0e4088" />
 
 ### 3. Integrated Live Console
-A dedicated engineering pane for real-time monitoring of the Production Runtime, including CPU load, RAM usage, and a live request log.
+A dedica![Uploading image3.png…]()
+ted engineering pane for real-time monitoring of the Production Runtime, including CPU load, RAM usage, and a live request log.
 
-> **[Screenshot: Production Runtime]**  
-> *Close-up of the "Live Console" highlighting the 99.99% Uptime SLA and encrypted session status.*
 
 ---
 
